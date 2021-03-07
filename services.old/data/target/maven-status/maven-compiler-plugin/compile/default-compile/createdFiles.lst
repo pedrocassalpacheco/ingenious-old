@@ -1,0 +1,9 @@
+com/soickm/repositories/ProductRepository.class
+com/soickm/domain/POC.class
+com/soickm/configuration/ApplicationConfiguration.class
+com/soickm/controllers/POCController.class
+com/soickm/controllers/ProductController.class
+com/soickm/Application.class
+com/soickm/repositories/POCRepository.class
+com/soickm/controllers/EchoController.class
+com/soickm/domain/Product.class

@@ -1,0 +1,11 @@
+com/soickm/domain/Product$Feature.class
+com/soickm/Application.class
+com/soickm/controllers/DataLoaderController.class
+com/soickm/domain/POC$Person.class
+com/soickm/domain/Product.class
+com/soickm/repositories/ProductRepository.class
+com/soickm/domain/POC.class
+com/soickm/repositories/POCSRepository.class
+com/soickm/controllers/ProductController.class
+com/soickm/controllers/POCSController.class
+com/soickm/controllers/EchoController.class
